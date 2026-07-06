@@ -80,7 +80,7 @@ A full-stack web application where users can browse stores, submit ratings, and 
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn:[ *pragati-jagtap *] (www.linkedin.com/in/pragati-jagtap)
+* 💼 LinkedIn:[ *pragati-jagtap *]_(www.linkedin.com/in/pragati-jagtap)
 * 🌐 Portfolio:[ *Portfolio *](https://pragatijagtap.vercel.app/)
 * 📧 Email: [jagtappragati22@gmail.com](mailto:jagtappragati22@gmail.com)
 
