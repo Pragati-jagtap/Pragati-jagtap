@@ -68,24 +68,6 @@ A full-stack web application where users can browse stores, submit ratings, and 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pragati-jagtap&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragati-jagtap&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragati-jagtap&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 * Advanced React
